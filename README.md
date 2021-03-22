@@ -1,2 +1,2 @@
 
-Sample Java Applicaiton V1.10
+Sample Java Applicaiton V1.5
